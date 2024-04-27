@@ -46,6 +46,8 @@ int main(){
     string s="abcdefg";
     Solution solu;
     cout<<solu.Shift_Str_Right(s,2)<<endl;
+
+    cout<<"hello world"<<endl;
     return 0;
 
 }
